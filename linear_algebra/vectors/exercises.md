@@ -106,25 +106,25 @@ correct, is it also unambiguous? Assume that $a$ is a 10-vector and $b$ is a
 
 **Answer (valid notation? unambiguous?):**
 
-<!-- Write your answer here. -->
+Valid and unambigious
 
 **(b)** $a=(0,b)$.
 
 **Answer (valid notation? unambiguous?):**
 
-<!-- Write your answer here. -->
+not valid
 
 **(c)** $b=(0,a,0)$.
 
 **Answer (valid notation? unambiguous?):**
 
-<!-- Write your answer here. -->
+valid but ambigious
 
 **(d)** $a=0=b$.
 
 **Answer (valid notation? unambiguous?):**
 
-<!-- Write your answer here. -->
+not valid
 
 ## 1.4 — Periodic energy usage
 
