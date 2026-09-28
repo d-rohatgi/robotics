@@ -43,7 +43,7 @@ False
 
 **Answer:**
 
-False
+True
 
 ## 1.2 — Vector notation
 
@@ -55,37 +55,37 @@ and $c$ is a 20-vector.
 
 **Answer (valid notation? length?):**
 
-<!-- Write your answer here. -->
+Valid, vector has length of 10
 
 **(b)** $(a,b,c_{3:13})$.
 
 **Answer (valid notation? length?):**
 
-<!-- Write your answer here. -->
+Valid, vector has a length of 31
 
 **(c)** $2a+c$.
 
 **Answer (valid notation? length?):**
 
-<!-- Write your answer here. -->
+Not valid
 
 **(d)** $(a,1)+(c_1,b)$.
 
 **Answer (valid notation? length?):**
 
-<!-- Write your answer here. -->
+Valid, has length of 11
 
 **(e)** $((a,b),a)$.
 
 **Answer (valid notation? length?):**
 
-<!-- Write your answer here. -->
+Valid, has length of 30
 
 **(f)** $\begin{bmatrix}a & b\end{bmatrix}+4c$.
 
 **Answer (valid notation? length?):**
 
-<!-- Write your answer here. -->
+not valid
 
 **(g)**
 
@@ -95,8 +95,7 @@ $$
 
 **Answer (valid notation? length?):**
 
-<!-- Write your answer here. -->
-
+Valid, has length of 20
 ## 1.3 — Overloading
 
 Which of the following expressions uses correct notation? If the notation is
