@@ -26,7 +26,7 @@ $$
 
 **Answer:**
 
-<!-- Write your answer here. -->
+True
 
 **(b)**
 
@@ -36,14 +36,13 @@ $$
 
 **Answer:**
 
-<!-- Write your answer here. -->
+False
 
 **(c)** $(1,(2,1)) = ((1,2),1)$.
 
 **Answer:**
 
-<!-- Write your answer here. -->
-
+False
 ## 1.2 — Vector notation
 
 Which of the following expressions uses correct notation? When the expression
