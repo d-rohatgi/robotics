@@ -1,6 +1,7 @@
 # Vectors — Exercises 1.1–1.20
 
-Questions from pages 25–28. Write your explanations and mathematical answers
+Questions from [the textbook, pages 25–28](https://web.stanford.edu/~boyd/vmls/vmls.pdf#page=35).
+Write your explanations and mathematical answers
 under each **Answer** prompt. Open a Markdown preview with math support to see
 the equations rendered.
 
@@ -31,7 +32,7 @@ True
 **(b)**
 
 $$
-\begin{bmatrix}1\\2\\1\end{bmatrix} = \begin{bmatrix}1 & 2 & 1\end{bmatrix}.
+\begin{bmatrix}1\\2\\1\end{bmatrix} = \left[\,1,\quad 2,\quad 1\,\right].
 $$
 
 **Answer:**
@@ -43,6 +44,7 @@ False
 **Answer:**
 
 False
+
 ## 1.2 — Vector notation
 
 Which of the following expressions uses correct notation? When the expression
@@ -243,7 +245,7 @@ are called *loss leaders*, and are used to increase customer engagement in
 the hope that the customer will make other, profitable purchases.) The
 $n$-vector $s$ gives the total sales of each of the items, over some period
 (such as a month), i.e., $s_i$ is the total number of units of item $i$ sold.
-(These are typically nonnegative, but negative entries can be used to reflect
+(These are also typically nonnegative, but negative entries can be used to reflect
 items that were purchased in a previous time period and returned in this
 one.) Express the total profit in terms of $p$ and $s$ using vector notation.
 
